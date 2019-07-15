@@ -1,1 +1,3 @@
-s
+//PROCFILE
+
+web: node test.js
